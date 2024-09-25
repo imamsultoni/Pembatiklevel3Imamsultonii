@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnanbnsnfns00000100001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnanbnsnfns00000000001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000100001" font="Open Sans" controllayout="npnxnanbsnfns00000100001" colorscheme="npxnanbnsnfns00000100001" string_table="npxnanbnsnfns00000100001" />
-    <layout name="pxabnsnfns00000100001" font="Open Sans" controllayout="pxabnsnfns00000100001" colorscheme="npxnanbnsnfns00000100001" string_table="npxnanbnsnfns00000100001" />
-    <layout name="npxnabnsnfns00000100001" font="Open Sans" controllayout="npxnabnsnfns00000100001" colorscheme="npxnanbnsnfns00000100001" string_table="npxnanbnsnfns00000100001" />
-    <layout name="npnxnanbnsnfns00000100001" font="Open Sans" controllayout="npnxnanbnsnfns00000100001" colorscheme="npxnanbnsnfns00000100001" string_table="npxnanbnsnfns00000100001" />
-    <layout name="pxabnsnfns00000100000" font="Open Sans" controllayout="pxabnsnfns00000100000" colorscheme="npxnanbnsnfns00000100001" string_table="npxnanbnsnfns00000100001" />
-    <layout name="npxnanbnsnfns00000100001" font="Open Sans" controllayout="npxnanbnsnfns00000100001" colorscheme="npxnanbnsnfns00000100001" string_table="npxnanbnsnfns00000100001" />
+    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="npxnanbnsnfns00000000001" string_table="npxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="npxnanbnsnfns00000000001" string_table="npxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npxnanbnsnfns00000000001" string_table="npxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npxnanbnsnfns00000000001" string_table="npxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npxnanbnsnfns00000000001" string_table="npxnanbnsnfns00000000001" />
+    <layout name="npxnanbnsnfns00000000001" font="Open Sans" controllayout="npxnanbnsnfns00000000001" colorscheme="npxnanbnsnfns00000000001" string_table="npxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="PROJEK PEMBATIK LEVEL 3 IMAM SULTONI KELAS 38" />
+              <option name="title_text" value="PROJEK PEMBATIK LEVEL 3 IMAM SULTONI KELAS 38 &amp;quot;STARKAP LAKU&amp;quot;" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -28,7 +28,7 @@
           </option>
           <optionlist name="tabs">
             <listitems>
-              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="resources" value="false" group="linkright" />
               <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
@@ -84,7 +84,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns00000100001">
+    <control_layout name="npnxnanbsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -97,7 +97,7 @@
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -107,7 +107,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000100001">
+    <control_layout name="pxabnsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -120,7 +120,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -130,7 +130,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns00000100001">
+    <control_layout name="npxnabnsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -143,7 +143,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -153,7 +153,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns00000100001">
+    <control_layout name="npnxnanbnsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -166,7 +166,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -176,7 +176,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000100000">
+    <control_layout name="pxabnsnfns00000000000">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -189,7 +189,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -199,7 +199,7 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="npxnanbnsnfns00000100001">
+    <control_layout name="npxnanbnsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -212,7 +212,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -224,7 +224,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npxnanbnsnfns00000100001">
+    <colorscheme name="npxnanbnsnfns00000000001">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1141,7 +1141,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npxnanbnsnfns00000100001">
+    <string_table name="npxnanbnsnfns00000000001">
       <string id="three_image_items">items</string>
       <string id="three_image_viewed">viewed</string>
       <string id="three_image_of">of</string>
@@ -1255,9 +1255,9 @@
             <slidelink slideid="_player.6nsW4Yh344I.5WZTrSui5Tm" displaytext="materi " expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.5lxSd32JcVr" displaytext="materi bola" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.6cG7ASo2ZtZ" displaytext="materi PENGERTIAN" expand="false" type="slide" />
-            <slidelink slideid="_player.6nsW4Yh344I.64NGTJYIXMB" displaytext="materi PENGERTIAN 2" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.6pp5TXkeBsA" displaytext="materi PENGERTIAN 3" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.5o4SaSZ7fwm" displaytext="materi PENGERTIAN 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6nsW4Yh344I.5y8YjY5Gf4n" displaytext="materi PENGERTIAN 3" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.5irouqtHukS" displaytext="materi PENGERTIAN 4" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.5tmeMvtdnrt" displaytext="DASHBOARD" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.5otFRknLLEN" displaytext="REFERENSI" expand="false" type="slide" />
@@ -1265,6 +1265,7 @@
             <slidelink slideid="_player.6nsW4Yh344I.67ait8OIJm9" displaytext="KREATOR GIF" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.5jbbCHovPBG" displaytext="KREATOR DASBOR" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.6K0xfU22vsg" displaytext="LATIHAN SOAL GAME" expand="false" type="slide" />
+            <slidelink slideid="_player.6nsW4Yh344I.5jau177brgW" displaytext="LATIHAN SOAL GAME" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.6pa8OPmsUKO" displaytext="TUJUAN PEMBELAJARAN GIF" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.67q9EUiYjOQ" displaytext="TUJUAN PEMBELAJARAN DASBORD" expand="false" type="slide" />
             <slidelink slideid="_player.6nsW4Yh344I.6FpX92Yryzj" displaytext="TUJUAN PEMBELAJARAN GIF" expand="false" type="slide" />
@@ -1273,7 +1274,7 @@
       </links>
     </outline>
   </nav_data>
-  <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
+  <resource_data description="" />
   <transcript_data />
   <glossary_data />
 </bwFrame>
